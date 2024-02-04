@@ -2,5 +2,5 @@
 
 A project from the freeCodeCamp React Course to build an AirBnb Experience website.
 
-![Alt text](src/images/website.png)
+![Alt text](src/images/website_preview.png)
 
